@@ -8,7 +8,7 @@ Team Significantly Different:
 
 Project: Comparing real life season statistics of soccer players to their individual ratings in the
 corresponding FIFA video game year
-* **E**xtract: Below are the links of the sources from where data for the project was retreived (CSV, JSON, pgAdmin 4, etc).
+* **E**xtract: Below are the links of the sources from where data for the project was retrieved (CSV, JSON, pgAdmin 4, etc).
 
   • https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset (CSV)
 
