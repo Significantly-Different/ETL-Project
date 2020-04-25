@@ -14,14 +14,15 @@ corresponding FIFA video game year
 
   • https://data.world/cclayford/statbunker-football-statistics (CSV)
   
-  ![](Images/Image1.png)
+  ![](Images/Image1.1.png)
   
 * **T**ransform: what data cleaning or transformation was required.\
 • Only selecting the necessary columns\
 • Dropping NaN values\
 • Changing NaN values to 0
 
-  ![](Images/Image2.png)
+  ![](Images/Image2.1.png)
+  ![](Images/Image2.2.png)
 
 * **L**oad: the final database, tables/collections, and why this was chosen.\
   ![](Images/Image3.png)
