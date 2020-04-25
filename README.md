@@ -8,7 +8,7 @@ Team Significantly Different:
 
 Project: Comparing real life season statistics of soccer players to their individual ratings in the
 corresponding FIFA video game year
-* **E**xtract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
+* **E**xtract: Below are the links of the sources from where data for the project was retreived (CSV, JSON, pgAdmin 4, etc).
 
   • https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset (CSV)
 
@@ -16,7 +16,7 @@ corresponding FIFA video game year
   
   ![](Images/Image1.1.png)
   
-* **T**ransform: what data cleaning or transformation was required.\
+* **T**ransform: The data cleaning primarily comprised of selection of relevant columns, removing null values and changing null values to 0.\
 • Only selecting the necessary columns\
 • Dropping NaN values\
 • Changing NaN values to 0
@@ -24,7 +24,7 @@ corresponding FIFA video game year
   ![](Images/Image2.1.png)
   ![](Images/Image2.2.png)
 
-* **L**oad: the final database, tables/collections, and why this was chosen.\
+* **L**oad: The data was chosen to compare and analyze the real life player attribues against the FIFA video game player attributes for the years 2019 and 2020.\
   ![](Images/Image3.png)
   ![](Images/Image4.png)
 • Tables\
