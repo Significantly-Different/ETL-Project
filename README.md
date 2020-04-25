@@ -16,7 +16,7 @@ corresponding FIFA video game year
 * **T**ransform: what data cleaning or transformation was required.\
 • Only selecting the necessary columns\
 • Dropping NaN values\
-• Changing NaN values to 0\
+• Changing NaN values to 0
 * **L**oad: the final database, tables/collections, and why this was chosen.\
 • Tables\
 o Joins can be used effectively to query the data to compare FIFA video game attributes to\
