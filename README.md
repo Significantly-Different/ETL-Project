@@ -24,7 +24,7 @@ corresponding FIFA video game year
   ![](Images/Image2.1.png)
   ![](Images/Image2.2.png)
 
-* **L**oad: The data was chosen to compare and analyze the real life player attribues against the FIFA video game player attributes for the years 2019 and 2020.\
+* **L**oad: The data was chosen to compare and analyze the real life player attributes against the FIFA video game player attributes for the years 2019 and 2020.\
   ![](Images/Image3.png)
   ![](Images/Image4.png)
 • Tables\
